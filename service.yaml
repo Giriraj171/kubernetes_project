@@ -4,7 +4,6 @@ metadata:
   name: giri
   labels:
     app: giri
-
 spec:
   ports:
     - port: 8080                               
