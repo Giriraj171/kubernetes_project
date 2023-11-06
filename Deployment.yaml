@@ -12,6 +12,7 @@ spec:
         labels:
           app: giri
       spec:
+
        containers:
         - name: giri
           image: giriraj171/pipeline-demo
